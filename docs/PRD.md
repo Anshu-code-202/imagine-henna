@@ -378,3 +378,72 @@ Helps users efficiently narrow the catalog to designs matching their preferences
 - Users can filter by coverage.
 - Multiple filters may be applied simultaneously.
 - Users can clear all applied filters.
+
+---
+
+## FR-005 — Save Favorite Designs
+
+### Description
+
+The system shall allow users to save mehendi designs to a personal favorites list for future comparison and decision-making.
+
+### Priority
+
+Should Have
+
+### Business Value
+
+Allows users to shortlist designs and compare options before selecting their preferred mehendi design.
+
+### Acceptance Criteria
+
+- Users can save a design as a favorite.
+- Users can remove a design from favorites.
+- Users can view all saved favorite designs.
+- Favorite status is clearly indicated.
+
+---
+
+## FR-006 — User Registration & Authentication
+
+### Description
+
+The system shall support optional user registration and authentication to enable personalized experiences such as saving favorite designs.
+
+### Priority
+
+Should Have
+
+### Business Value
+
+Supports user personalization while allowing basic catalog exploration without requiring an account.
+
+### Acceptance Criteria
+
+- Users can register a new account.
+- Registered users can securely log in.
+- Authenticated users can access their saved favorites.
+- Guests can browse the catalog without authentication.
+
+---
+
+## FR-007 — Basic AI Recommendation
+
+### Description
+
+The system shall recommend mehendi designs based on user preferences and design metadata using explainable recommendation logic.
+
+### Priority
+
+Must Have
+
+### Business Value
+
+Reduces decision uncertainty by presenting users with relevant mehendi designs instead of requiring them to manually browse the entire catalog.
+
+### Acceptance Criteria
+
+- Users provide recommendation preferences such as occasion, style, and coverage.
+- The system returns a ranked list of relevant designs.
+- Every recommendation includes a clear explanation describing why the design was recommended.
+- Recommendations are generated using curated design metadata.
