@@ -147,3 +147,50 @@ For artists:
 - Repeated discussions increase consultation time and reduce efficiency.
 
 Solving this problem improves the experience for both customers and artists while enabling better communication before the mehendi application begins.
+
+---
+
+# User Personas
+
+## Primary Persona – Bride Preparing for Her Wedding
+
+### Overview
+
+The primary user of Imagine Henna Version 1 is a bride preparing for her wedding who wants to confidently choose a mehendi design before visiting a mehendi artist.
+
+### Goals
+
+- Find a mehendi design suitable for her wedding.
+- Reduce time spent browsing multiple platforms.
+- Compare different design options.
+- Understand design characteristics before making a decision.
+- Feel confident about her final choice.
+
+### Pain Points
+
+- Too many designs spread across different platforms.
+- Difficulty finding designs matching her preferences.
+- Uncertainty about whether a design is the right choice.
+- Difficulty communicating preferences to the artist.
+
+### Success Criteria
+
+A successful experience means the bride selects and saves a design she feels confident about before her appointment.
+
+---
+
+## Secondary Personas (Future Versions)
+
+### Festival Customer
+
+A customer looking for mehendi designs for occasions such as Karva Chauth, Diwali, Teej, Eid, or family celebrations.
+
+This persona is outside the MVP but is part of the long-term product vision.
+
+---
+
+### Professional Mehendi Artist
+
+A professional artist who wants to organize designs, showcase a portfolio, and eventually receive better-informed customers.
+
+Artist-focused features are intentionally excluded from Version 1 and planned for future releases.
