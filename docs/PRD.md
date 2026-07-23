@@ -607,3 +607,70 @@ Users may continue using existing platforms such as Pinterest and Instagram.
 Poor recommendations may reduce user trust.
 
 **Mitigation:** Begin with simple, explainable recommendation logic based on curated metadata before introducing more advanced AI techniques.
+
+---
+
+# Product Roadmap
+
+The long-term vision of Imagine Henna is to evolve from a curated mehendi discovery platform into a comprehensive decision-support and business platform for customers and professional mehendi artists.
+
+## Version 1 — Design Discovery MVP
+
+Focus:
+Help brides confidently discover and choose mehendi designs.
+
+Key Capabilities:
+
+- Curated design catalog
+- Design details
+- Search
+- Filtering
+- Favorites
+- Basic AI recommendation
+- Optional authentication
+
+---
+
+## Version 2 — Virtual Try-On
+
+Focus:
+Reduce uncertainty by allowing users to visualize mehendi designs on their own hands.
+
+Planned Capabilities:
+
+- Hand image upload
+- Hand landmark detection
+- Design overlay
+- Image alignment
+- Realistic blending
+- Save try-on results
+
+---
+
+## Version 3 — Artist Platform
+
+Focus:
+Help professional mehendi artists manage and showcase their work.
+
+Planned Capabilities:
+
+- Artist profiles
+- Portfolio management
+- Design uploads
+- Catalog moderation
+- Artist verification
+
+---
+
+## Version 4 — Business Platform
+
+Focus:
+Support complete customer–artist interactions.
+
+Planned Capabilities:
+
+- Artist booking
+- Online payments
+- Reviews and ratings
+- Customer communication
+- Business analytics
