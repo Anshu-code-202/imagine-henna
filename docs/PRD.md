@@ -512,3 +512,31 @@ Reduces decision uncertainty by presenting users with relevant mehendi designs i
 
 - The application should follow basic web accessibility practices.
 - Text and controls should remain readable across supported devices.
+
+---
+
+# MVP Scope
+
+The Version 1 MVP focuses on helping brides confidently discover and choose suitable mehendi designs before visiting a mehendi artist.
+
+## Included Features
+
+- Browse mehendi designs
+- Design details page
+- Search designs
+- Filter by occasion
+- Filter by style
+- Filter by coverage
+- Basic AI recommendation
+- Optional user registration and login
+- Save favorite designs
+
+## MVP Success Definition
+
+The MVP will be considered successful if users can:
+
+- Discover relevant mehendi designs efficiently.
+- Narrow their choices using search and filters.
+- Receive explainable design recommendations.
+- Save preferred designs for later comparison.
+- Complete the design selection process with greater confidence than existing manual workflows.
