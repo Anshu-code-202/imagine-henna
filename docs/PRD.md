@@ -447,3 +447,68 @@ Reduces decision uncertainty by presenting users with relevant mehendi designs i
 - The system returns a ranked list of relevant designs.
 - Every recommendation includes a clear explanation describing why the design was recommended.
 - Recommendations are generated using curated design metadata.
+
+---
+
+# Non-Functional Requirements
+
+## Performance
+
+- The system should return search results within 2 seconds under normal operating conditions.
+- Recommendation results should be generated within 5 seconds for the curated MVP catalog.
+- The system should support at least 50 concurrent users during MVP evaluation.
+
+---
+
+## Availability
+
+- The application should be available at least 99% of the time during normal operation.
+- Planned maintenance should be communicated to users where applicable.
+
+---
+
+## Security
+
+- User passwords shall never be stored in plain text.
+- Authentication shall follow industry-standard secure practices.
+- Input validation shall be applied to all user-provided data.
+- Access to personalized features shall require authentication.
+
+---
+
+## Maintainability
+
+- The backend shall follow a modular architecture.
+- Business logic shall be separated from API routing.
+- Major engineering decisions shall be documented using ADRs.
+- Code shall follow consistent coding standards.
+
+---
+
+## Scalability
+
+- The architecture shall support future expansion to larger design catalogs without major redesign.
+- Future features such as artist uploads and virtual try-on should integrate without replacing the existing architecture.
+
+---
+
+## Reliability
+
+- Invalid user input shall be handled gracefully.
+- System errors shall return meaningful error responses.
+- Unexpected failures shall not expose sensitive system information.
+
+---
+
+## Usability
+
+- Users should be able to discover designs with minimal learning effort.
+- Search and filtering should reduce browsing effort.
+- Navigation should remain simple and consistent throughout the application.
+
+---
+
+## Accessibility
+
+- The application should follow basic web accessibility practices.
+- Text and controls should remain readable across supported devices.
