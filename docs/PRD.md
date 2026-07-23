@@ -331,3 +331,50 @@ Helps users evaluate designs confidently before making a selection.
 - Display complexity level.
 - Display a short design description.
 - Display related designs when available.
+
+---
+
+## FR-003 — Search Mehendi Designs
+
+### Description
+
+The system shall allow users to search the curated mehendi design catalog using keywords.
+
+### Priority
+
+Must Have
+
+### Business Value
+
+Reduces the time required to locate relevant mehendi designs.
+
+### Acceptance Criteria
+
+- Users can enter search keywords.
+- The system returns matching designs.
+- Searches support design names and relevant metadata.
+- If no matching designs exist, the system informs the user.
+
+---
+
+## FR-004 — Filter Mehendi Designs
+
+### Description
+
+The system shall allow users to filter the design catalog using predefined attributes.
+
+### Priority
+
+Must Have
+
+### Business Value
+
+Helps users efficiently narrow the catalog to designs matching their preferences.
+
+### Acceptance Criteria
+
+- Users can filter by occasion.
+- Users can filter by style.
+- Users can filter by coverage.
+- Multiple filters may be applied simultaneously.
+- Users can clear all applied filters.
