@@ -540,3 +540,23 @@ The MVP will be considered successful if users can:
 - Receive explainable design recommendations.
 - Save preferred designs for later comparison.
 - Complete the design selection process with greater confidence than existing manual workflows.
+
+---
+
+# Out of Scope
+
+The following features are intentionally excluded from Version 1 of Imagine Henna:
+
+- Virtual Try-On
+- Artist Upload Portal
+- Artist Portfolio Management
+- Booking Mehendi Artists
+- Online Payments
+- Chat with Artists
+- Reviews and Ratings
+- Social Sharing
+- Multi-language Support
+- Advanced AI Personalization
+- Real-time Notifications
+
+These features remain part of the long-term product vision but are deferred to future releases to maintain a focused and achievable MVP.
