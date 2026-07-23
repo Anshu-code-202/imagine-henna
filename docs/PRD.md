@@ -560,3 +560,50 @@ The following features are intentionally excluded from Version 1 of Imagine Henn
 - Real-time Notifications
 
 These features remain part of the long-term product vision but are deferred to future releases to maintain a focused and achievable MVP.
+
+---
+
+# Assumptions & Risks
+
+## Assumptions
+
+| ID | Assumption | Status |
+|----|------------|--------|
+| A1 | Brides spend significant time searching for suitable mehendi designs before booking an artist. | Unvalidated |
+| A2 | A curated catalog with rich metadata is sufficient for the MVP recommendation system. | Unvalidated |
+| A3 | Users prefer searching and filtering over endless scrolling. | Unvalidated |
+| A4 | Explainable recommendations increase user confidence when selecting designs. | Unvalidated |
+
+---
+
+## Risks
+
+### Limited Design Catalog
+
+A small curated catalog may reduce recommendation diversity during the MVP.
+
+**Mitigation:** Expand the catalog gradually while maintaining quality standards.
+
+---
+
+### Metadata Quality
+
+Incorrect or inconsistent metadata may reduce search and recommendation quality.
+
+**Mitigation:** Manual review of all catalog entries before publication.
+
+---
+
+### User Adoption
+
+Users may continue using existing platforms such as Pinterest and Instagram.
+
+**Mitigation:** Focus on reducing decision time and improving confidence rather than replacing all existing workflows.
+
+---
+
+### Recommendation Quality
+
+Poor recommendations may reduce user trust.
+
+**Mitigation:** Begin with simple, explainable recommendation logic based on curated metadata before introducing more advanced AI techniques.
