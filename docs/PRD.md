@@ -278,3 +278,56 @@ The MVP will be considered successful if:
 - Users understand why designs are recommended.
 - The curated catalog supports the primary use cases for brides.
 - The system demonstrates a maintainable, well-documented engineering architecture suitable for future expansion.
+
+
+---
+
+# Functional Requirements
+
+## FR-001 — Browse Mehendi Designs
+
+### Description
+
+The system shall allow users to browse a curated catalog of mehendi designs.
+
+### Priority
+
+Must Have
+
+### Business Value
+
+Enables users to discover available mehendi designs without relying on multiple external platforms.
+
+### Acceptance Criteria
+
+- Display the curated mehendi design catalog.
+- Each design includes a preview image.
+- Users can navigate to the Design Details page.
+- The catalog loads successfully for supported users.
+
+---
+
+## FR-002 — Design Details Page
+
+### Description
+
+The system shall provide a dedicated page containing detailed information for each mehendi design.
+
+### Priority
+
+Must Have
+
+### Business Value
+
+Helps users evaluate designs confidently before making a selection.
+
+### Acceptance Criteria
+
+- Display high-quality design images.
+- Display style.
+- Display occasion.
+- Display coverage.
+- Display estimated application time.
+- Display complexity level.
+- Display a short design description.
+- Display related designs when available.
