@@ -77,3 +77,73 @@ Imagine Henna helps users confidently discover and choose mehendi designs that m
 ## MVP Goal
 
 The objective of Version 1 is to validate that curated design discovery, intelligent search, metadata-driven filtering, and explainable AI recommendations significantly improve the user's design selection experience without introducing unnecessary engineering complexity.
+
+---
+
+# Problem Statement
+
+## Background
+
+Choosing a mehendi design is an important decision for many customers, especially brides preparing for their wedding. A selected design reflects personal style, complements the occasion, and often becomes a memorable part of the celebration.
+
+Despite the large number of mehendi designs available online, customers frequently experience difficulty finding a design that matches their preferences and requirements.
+
+## Current User Workflow
+
+Today, a typical customer follows a fragmented process:
+
+1. Search Pinterest, Instagram, Google Images, or YouTube.
+2. Browse hundreds of mehendi images.
+3. Save screenshots across multiple platforms.
+4. Ask friends and family for opinions.
+5. Visit one or more mehendi artists.
+6. Browse physical albums or WhatsApp galleries.
+7. Compare multiple designs again.
+8. Remain uncertain before making a final decision.
+
+This process is repetitive, time-consuming, and often results in decision fatigue.
+
+## Pain Points
+
+The current workflow creates several problems:
+
+- Customers spend hours searching across multiple platforms.
+- Many designs lack structured information such as style, occasion, or coverage.
+- Customers struggle to determine whether a design matches their personal preferences.
+- It is difficult to compare similar designs objectively.
+- Customers cannot easily visualize how a design may suit their own hands.
+- Communication between customers and artists is often inefficient because preferences are not clearly defined before the appointment.
+
+## Existing Alternatives
+
+Customers currently rely on:
+
+- Social media platforms (Pinterest, Instagram, Facebook)
+- Google Image Search
+- WhatsApp image collections shared by artists
+- Physical design albums maintained by artists
+- Recommendations from friends and family
+
+While these sources provide inspiration, they are not designed to support confident decision-making.
+
+## Problem Definition
+
+The core problem is not the lack of mehendi designs.
+
+The core problem is that customers lack an efficient and trustworthy way to discover, compare, and confidently choose a mehendi design that matches their occasion, preferences, and expectations before visiting an artist.
+
+## Why This Problem Matters
+
+For customers:
+
+- Significant time is spent searching instead of deciding.
+- Decision uncertainty creates unnecessary stress before important events.
+- Customers may arrive at appointments without a clear design choice.
+
+For artists:
+
+- Time is spent repeatedly showing large collections of designs.
+- Customers frequently change their preferences during consultations.
+- Repeated discussions increase consultation time and reduce efficiency.
+
+Solving this problem improves the experience for both customers and artists while enabling better communication before the mehendi application begins.
