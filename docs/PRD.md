@@ -194,3 +194,87 @@ This persona is outside the MVP but is part of the long-term product vision.
 A professional artist who wants to organize designs, showcase a portfolio, and eventually receive better-informed customers.
 
 Artist-focused features are intentionally excluded from Version 1 and planned for future releases.
+
+---
+
+# Product Goals & Success Metrics
+
+## Product Goals
+
+### Goal 1 – Simplify Mehendi Design Discovery
+
+Enable users to quickly discover mehendi designs relevant to their occasion, style, and preferences through structured browsing, search, and filtering.
+
+---
+
+### Goal 2 – Reduce Decision Uncertainty
+
+Help users confidently choose a mehendi design before visiting an artist by providing detailed design information and explainable recommendations.
+
+---
+
+### Goal 3 – Save User Time
+
+Reduce the amount of time users spend searching across multiple social media platforms and artist portfolios.
+
+---
+
+### Goal 4 – Build a Strong Engineering Foundation
+
+Develop a production-quality software system that demonstrates professional software engineering practices, maintainable architecture, and practical AI engineering.
+
+---
+
+# Success Metrics
+
+## North Star Metric
+
+### Decision Confidence Rate (DCR)
+
+**Definition**
+
+The percentage of users who successfully select and save a mehendi design for their intended occasion within a target session.
+
+---
+
+## Supporting Metrics
+
+### Search Success Rate
+
+Percentage of users who successfully find relevant designs using search and filters.
+
+---
+
+### Recommendation Acceptance Rate
+
+Percentage of recommendation sessions where a user selects or saves one of the recommended designs.
+
+---
+
+### Average Time to Decision
+
+Average time taken for a user to identify and save a preferred mehendi design.
+
+---
+
+### Favorites Rate
+
+Percentage of sessions where users save one or more designs to their favorites.
+
+---
+
+### Catalog Coverage
+
+Percentage of supported occasions and styles represented within the curated mehendi design catalog.
+
+---
+
+# Success Criteria for MVP
+
+The MVP will be considered successful if:
+
+- Users can discover relevant mehendi designs efficiently.
+- Users can narrow their choices using search and filters.
+- Users understand why designs are recommended.
+- The curated catalog supports the primary use cases for brides.
+- The system demonstrates a maintainable, well-documented engineering architecture suitable for future expansion.
