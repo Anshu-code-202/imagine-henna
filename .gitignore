@@ -35,3 +35,15 @@ Thumbs.db
 
 Imagine Henna API - Swagger UI.html
 Imagine Henna API - Swagger UI_files/
+# Environment variables / secrets
+.env
+
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE
+.vscode/
